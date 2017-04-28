@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "713539218529",
+    "firebase_url": "https://mail360xamarinpushnotification.firebaseio.com",
+    "project_id": "mail360xamarinpushnotification",
+    "storage_bucket": "mail360xamarinpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713539218529:android:a8a57981df36d436",
+        "android_client_info": {
+          "package_name": "com.xamarin.MailPushNotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713539218529-2ilhv997t8bsldiielf5nelc2l811d1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8D9D7KPyA-Ei4rQKt4SIUpQlopZSye6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
